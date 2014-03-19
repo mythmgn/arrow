@@ -1,4 +1,4 @@
-difi
+arrow
 ====
 
-DIFI (Distributed Fault Injection Testing Framework) 分布式异常测试框架
+Fault injection system. Chaos generator for apps, distributed systems, infrastructure units
